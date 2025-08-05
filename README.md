@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 ```text
 🚧 Github profile is still under construction
-```
