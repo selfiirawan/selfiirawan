@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 ### **Aspiring Data Analyst & Python Learner**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/selfi-ardi-irawan-1556332b1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:celpi.irawan@gmail.com) 
 
