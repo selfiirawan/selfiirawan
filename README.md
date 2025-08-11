@@ -1,6 +1,7 @@
 # 💫 About Me
 ### **Aspiring Data Analyst & Full Stack Developer**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/selfi-ardi-irawan-1556332b1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:celpi.irawan@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Selfi_Ardi_Irawan-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/selfi-ardi-irawan-1556332b1/) 
+[![email](https://img.shields.io/badge/Email-celpi.irawan@gmail.com-D14836?logo=gmail)](mailto:celpi.irawan@gmail.com) 
 
 📚 Currently learning **Python** and exploring **Full-Stack development**  
 🎯 Goal: Transition into a **Data Analyst** or **Full-Stack Developer** role  
