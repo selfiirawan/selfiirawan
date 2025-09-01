@@ -7,7 +7,9 @@
 [![email](https://img.shields.io/badge/Email-celpi.irawan@gmail.com-D14836?logo=gmail)](mailto:celpi.irawan@gmail.com) 
 
 📚 Currently learning **Python** and exploring **Full-Stack development**  
+
 🎯 Goal: Transition into a **Data Analyst** or **Full-Stack Developer** role  
+
 💭 I started my coding journey in early 2025, from various online platforms including **Udemy**, **DataCamp**, **Mimo app**, **Coursera** and curently a **Python student** at **Nova Academy**. I post some of my **mini projects** here as I learn and grow ✨ 
 
 <br>
