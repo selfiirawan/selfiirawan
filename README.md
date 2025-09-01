@@ -12,6 +12,8 @@
 
 💭 I started my coding journey in early 2025, from various online platforms including **Udemy**, **DataCamp**, **Mimo app**, **Coursera** and curently a **Python student** at **Nova Academy**. I post some of my **mini projects** here as I learn and grow ✨ 
 
+p/s: i'm open for any collaboration on mini project to improve my skill 🙈
+
 <br>
 <h1 align="center">🛠️ Tech Skills</h1>
 <h3 align="center">🚨 Main</h3>
