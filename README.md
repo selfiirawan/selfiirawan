@@ -41,6 +41,6 @@ p/s: i'm open for any collaboration on mini project to improve my skill 🙈
 
 <h1 align="center">🔥 Stats </h1>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=selfiirawan&theme=vision-friendly-dark&hide_border=false">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=selfiirawan&theme=vision-friendly-dark&hide_border=false"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfiirawan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
