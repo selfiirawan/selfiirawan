@@ -12,7 +12,8 @@
 
 <br>
 
-I just started my coding journey (in early 2025), self study from various online platforms including **Udemy**, **DataCamp**, **Coursera** and curently a **Python student** at **Nova Academy**. I know my journey is still long away to go, but I'm trying my best to chase as far as I can 🏃🏻‍♀️ (and asap)
+I just started my coding journey in early 2025, self-studying through various online platforms including **Udemy**, **DataCamp**, **Coursera** and curently a **Python student** at **Nova Academy**. I know my journey still has a long way to go, but I’m doing my best to chase it as far and as fast as I can 🏃🏻‍♀️.
+
 
 I post some of my **mini projects** here as I learn and grow ✨ 
 
