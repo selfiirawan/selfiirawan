@@ -10,7 +10,11 @@
 
 🎯 Goal: Transition into a **Data Analyst** or **Full-Stack Developer** role  
 
-💭 I started my coding journey in early 2025, from various online platforms including **Udemy**, **DataCamp**, **Mimo app**, **Coursera** and curently a **Python student** at **Nova Academy**. I post some of my **mini projects** here as I learn and grow ✨ 
+<br>
+
+I just started my coding journey (in early 2025), self study from various online platforms including **Udemy**, **DataCamp**, **Coursera** and curently a **Python student** at **Nova Academy**. I know my journey is still long away to go, but I'm trying my best to chase as far as I can 🏃🏻‍♀️ (and asap)
+
+I post some of my **mini projects** here as I learn and grow ✨ 
 
 p/s: i'm open for any collaboration on mini project to improve my skill ✌🏼
 
