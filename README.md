@@ -2,28 +2,34 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CA3A&background=FF000000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Selfi+Irawan" alt="Typing SVG" /></a>
 </h1>
 
-### **Aspiring Data Analyst & Full Stack Developer** 👩🏻‍💻
+### **Aspiring Software Engineer & Full Stack Developer** 👩🏻‍💻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Selfi_Ardi_Irawan-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/selfi-ardi-irawan-1556332b1/) 
 [![email](https://img.shields.io/badge/Email-celpi.irawan@gmail.com-D14836?logo=gmail)](mailto:celpi.irawan@gmail.com) 
 
-📚 Currently learning **Python** and exploring **Full-Stack development**  
-
-🎯 Goal: Transition into a **Data Analyst** or **Full-Stack Developer** role  
+📚 Currently exploring **Full-Stack development**  
 
 <br>
 
-I just started my coding journey in early 2025, self-studying through various online platforms including **Udemy**, **DataCamp**, **Coursera** and curently a **Python student** at **Nova Academy**. I know my journey still has a long way to go, but I’m doing my best to chase it as far and as fast as I can 🏃🏻‍♀️
+I started my coding journey in early 2025, self-studying through platforms like **Udemy**, **DataCamp**, and **Coursera**, and completed a Python & Django online bootcamp at **NOVA IT Academy**. Now i'm leveling up as a Software Engineering student at **Forward College**. Still early in the journey, but moving fast and building as I go 🏃🏻‍♀️
 
+I post **mini(for now) projects** here as I learn and grow ✨
 
-I post some of my **mini projects** here as I learn and grow ✨ 
-
-p/s: i'm open for any collaboration on mini project to improve my skill ✌🏼
+p/s: open for collaboration on small to medium projects. I learn best by doing, and i'd love to build something together! ✌🏼
 
 <br>
 <h1 align="center">🛠️ Tech Skills</h1>
 <h3 align="center">🚨 Main</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,html,css&theme=light">
+</p>
+
+<h3 align="center">📖 Currently Learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black">
 </p>
 
 <h3 align="center">Others</h3>
