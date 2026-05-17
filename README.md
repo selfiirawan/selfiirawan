@@ -53,5 +53,5 @@ p/s: open for collaboration on small to medium projects. I learn best by doing, 
 <h1 align="center">🔥 Stats </h1>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=selfiirawan&theme=vision-friendly-dark&hide_border=false"><br>
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=selfiirawan&layout=compact&theme=vision-friendly-dark&hide_border=false">
+  <img src="https://github-readme-stats-flame-eight-93.vercel.app/api/top-langs/?username=selfiirawan&layout=compact&theme=vision-friendly-dark&hide_border=false">
 </p>
