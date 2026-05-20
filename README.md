@@ -10,7 +10,7 @@
 
 <br>
 
-I started my coding journey in early 2025, self-studying through platforms like **Udemy**, **DataCamp**, and **Coursera**, and completed a Python & Django online bootcamp at **NOVA IT Academy**. Now i'm leveling up as a Software Engineering student at **Forward College**. Still early in the journey, but moving fast and building as I go 🏃🏻‍♀️
+I started my coding journey in early 2025, self-studying through platforms like **Udemy**, **DataCamp**, and **Coursera**, and completed a Python & Django online bootcamp at **NOVA IT Academy**. Now i'm leveling up as a Software Engineering student at **Forward College** and a Cadet at **42 Malaysia**. Still early in the journey, but moving fast and building as I go 🏃🏻‍♀️
 
 I post **mini(for now) projects** here as I learn and grow ✨
 
