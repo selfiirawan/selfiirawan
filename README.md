@@ -2,17 +2,17 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CA3A&background=FF000000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Selfi+Irawan" alt="Typing SVG" /></a>
 </h1>
 
-### **Aspiring Software Engineer & Full Stack Developer** 👩🏻‍💻
+### **Aspiring Software Engineer & Full Stack Web Developer** 👩🏻‍💻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Selfi_Ardi_Irawan-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/selfi-ardi-irawan-1556332b1/) 
 [![email](https://img.shields.io/badge/Email-celpi.irawan@gmail.com-D14836?logo=gmail)](mailto:celpi.irawan@gmail.com) 
 
-📚 Currently exploring **Full-Stack development**  
+📚 Currently exploring **Full-Stack web development**  
 
 <br>
 
 I started my coding journey in early 2025, self-studying through platforms like **Udemy**, **DataCamp**, and **Coursera**, and completed a Python & Django online bootcamp at **NOVA IT Academy**. Now i'm leveling up as a Software Engineering student at **Forward College** and a Cadet at **42 Malaysia**. Still early in the journey, but moving fast and building as I go 🏃🏻‍♀️
 
-I post **mini(for now) projects** here as I learn and grow ✨
+I post **mini projects**(for now) here as I learn and grow ✨
 
 p/s: open for collaboration on small to medium projects. I learn best by doing, and i'd love to build something together! ✌🏼
 
