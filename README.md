@@ -6,18 +6,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Selfi_Ardi_Irawan-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/selfi-ardi-irawan-1556332b1/) 
 [![email](https://img.shields.io/badge/Email-celpi.irawan@gmail.com-D14836?logo=gmail)](mailto:celpi.irawan@gmail.com) 
 
-📚 Currently exploring **Full-Stack web development**  
+<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white" alt="42" />
 
-<br>
+✨ Currently exploring **Full-Stack web development**  
 
-I started my coding journey in early 2025, self-studying through platforms like **Udemy**, **DataCamp**, and **Coursera**, and completed a Python & Django online bootcamp at **NOVA IT Academy**. Now i'm leveling up as a Software Engineering student at **Forward College** and a Cadet at **42 Malaysia**. Still early in the journey, but moving fast and building as I go 🏃🏻‍♀️
+```text
+📚 I'm a self-learner in programming: through [Udemy, Coursera, DataCamp etc] & Python Bootcamp
+👩🏻‍🎓 Currently a Software Engineering student in Forward College
+👩🏻‍💻 Also a Cadet at 42 Malaysia [focusing on software development]
+```
 
-I post **mini projects**(for now) here as I learn and grow ✨
-
-p/s: open for collaboration on small to medium projects. I learn best by doing, and i'd love to build something together! ✌🏼
+`open for collaboration on small to medium projects. I learn best by doing, and i'd love to build something together! ✌🏼`
 
 <br>
 <h1 align="center">🛠️ Tech Skills</h1>
+
 <h3 align="center">🚨 Main</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,js,html,css&theme=light">
